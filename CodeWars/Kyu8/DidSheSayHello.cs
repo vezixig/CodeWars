@@ -1,6 +1,4 @@
-﻿using NUnit.Framework;
-
-/*
+﻿/*
 https://www.codewars.com/kata/56a4addbfd4a55694100001f
 
 You received a whatsup message from an unknown number. Could it be from that girl/boy with a foreign accent you met yesterday evening?

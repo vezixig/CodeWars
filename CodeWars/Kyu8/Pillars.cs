@@ -1,6 +1,4 @@
-﻿using NUnit.Framework;
-
-/*
+﻿/*
 There are pillars near the road. The distance between the pillars is the same and the width of the pillars is the same. Your function accepts three arguments:
 
     number of pillars (≥ 1);
